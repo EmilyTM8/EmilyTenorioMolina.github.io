@@ -15,10 +15,11 @@
 
 # ── Who you are ─────────────────────────────────────────────
 
-name = "Juan Pérez"                # ← Required. Everything else is optional.
+name = "Emily Tenorio Molina"                # ← Required. Everything else is optional.
 
 # A short phrase describing you. Shows up big at the top of most templates.
-tagline = "Multimedia journalist telling the East Bay's stories"
+tagline = "Local Bay Area Journalist 
+Bilingual|Bicultural"
 
 location = "Berkeley, California"
 
@@ -30,7 +31,7 @@ location = "Berkeley, California"
 # Fill them in if they apply to you. If not, leave them empty.
 
 job_title = "Multimedia Journalist"     # Your role, like "Reporter" or "Photojournalist"
-employer = "Richmond Confidential"      # Where you work, intern, or freelance most
+employer = "KQED"      # Where you work, intern, or freelance most
 
 # ── The look of your site ───────────────────────────────────
 #
@@ -44,19 +45,19 @@ employer = "Richmond Confidential"      # Where you work, intern, or freelance m
 #   "signal"     – huge bold headline, then a bright yellow band
 #   "harbor"     – deep teal with a portrait sidebar and serif type
 
-template = "newsprint"
+template = "bloom"
 
 # ── How people reach you ────────────────────────────────────
 
-email = "juan.perez@example.com"
-phone = ""                          # e.g. "(510) 555-0123" — or leave empty
+email = "etenorio.m@berkeley.edu"
+phone = "707-703-3975"                          # e.g. "(510) 555-0123" — or leave empty
 
 # Paste any social media links here, one per line between the brackets.
 # The right icon appears automatically.
 socials = [
   "https://www.instagram.com/example",
-  "https://www.linkedin.com/in/example",
-  "https://bsky.app/profile/example.bsky.social",
+  "linkedin.com/in/emily-tenorio-molina",
+
 ]
 
 # ── Photos and files ────────────────────────────────────────
@@ -75,18 +76,14 @@ favicon = ""                        # Tiny browser-tab icon. Empty = made for yo
 
 bio = """
 I'm a journalism student at UC Berkeley with a focus on multimedia
-storytelling. I grew up in Fresno, where the kitchen radio was
-always tuned to the news. I've been hooked ever since.
+storytelling and bilingual reporting. I grew up in Sonoma County and live in Contra Costa. 
 
-My reporting covers housing, transportation and food access in the East
-Bay. I write for Richmond Confidential and spent last summer as a
-reporting intern with the SF Chronicle, where I learned that the best
-stories usually start at a bus stop, a taquería or a city council
-meeting that runs past midnight.
+My reporting covers local government and underserved communities in the East
+Bay. I'm a newscast intern at KQED, where I've focused on East Contra Costa County news. 
+I previously worked for Bay City News, Contra Costa Pulse, and Richmond Confidential.
 
-When I'm not reporting, you'll find me photographing high school
-soccer, digging through city budget PDFs, or hunting down the Bay
-Area's best al pastor.
+
+When I'm not reporting, you'll find me taking pictures of local museums, baking seasonal goods, and enjoying fun Western movies. 
 """
 
 # Optional extra line at the bottom of every page.
