@@ -65,8 +65,8 @@ socials = [
 # Upload files to the "media" folder on GitHub, then write the
 # file's name here.
 
-banner_photo = "media/banner.jpg"   # A portrait or banner photo of you
-resume = "media/resume.pdf"         # A PDF of your resume (adds a Resume button)
+banner_photo = "media/Emily.jpg"   # A portrait or banner photo of you
+resume = "media/EmilyResume.pdf"         # A PDF of your resume (adds a Resume button)
 favicon = ""                        # Tiny browser-tab icon. Empty = made for you
 
 # ── About you ───────────────────────────────────────────────
@@ -108,83 +108,60 @@ footer = ""
 # ── Published stories: give them a url and they link out ────
 
 [[work]]
-title = "City Council approves protected bike lanes for Telegraph Avenue"
-description = "After a decade of debate and three hours of public comment, Berkeley's City Council voted 7–2 to build protected bike lanes along one of the city's busiest corridors."
-url = "https://example.com/your-story-link-goes-here"
+title = "'Celebrate love and beauty'_ Antioch marks "
+description = "A celebration of Black joy at the Juneteenth Celebration in Antioch."
+url = "https://localnewsmatters.org/2026/06/22/antioch-juneteenth-celebration-2026/"
 image = "media/work/bike-lanes.jpg"
-date = "March 2026"
+date = "June 2026"
 category = "Journalism"
-outlet = "Berkeleyside"
+outlet = "Bay City News"
 
 [[work]]
-title = "The wells are running dry: a Central Valley town confronts its future"
-description = "In Teviston, families have watched their taps sputter for years. Now a state grant promises relief — but the water table keeps falling faster than the money arrives."
-url = "https://example.com/your-story-link-goes-here"
+title = "Hundreds flood Pittsburg City Council Meeting"
+description = "City of Pittsburg approved their data center in 2024. Now, residents are protesting the decision, they claim, was made with secrecy."
+url = "https://localnewsmatters.org/2026/06/16/hundreds-flood-pittsburg-council-meeting-to-oppose-data-center-at-former-golf-course/"
 image = "media/work/drought.jpg"
-date = "January 2026"
+date = "June 2026"
 category = "Journalism"
-outlet = "The San Francisco Chronicle"
+outlet = "Bay City News"
 
 [[work]]
-title = "As grocery prices climb, more Cal students turn to the campus food pantry"
-description = "Visits to the UC Berkeley Food Pantry have doubled in two years. Students, staff and volunteers describe the quiet logistics of keeping shelves stocked."
-url = "https://example.com/your-story-link-goes-here"
+title = "San Pablo City Council adds rent control initiative to November ballot"
+description = "The San Pablo City Council has placed a citizen initiative about rent control onto the November ballot after adding language to the ballot question about what the measure would cost the city."
+url = "https://localnewsmatters.org/2026/07/15/san-pablo-rent-control-ballot-city-costs-november-election/"
 image = "media/work/food-bank.jpg"
-date = "November 2025"
+date = "July 2026"
 category = "Journalism"
-outlet = "The Daily Californian"
+outlet = "Bay City News"
 
 # This one has no image on purpose — the site still handles it gracefully.
 [[work]]
-title = "Opinion: Student journalism deserves a seat at the press table"
-description = "Student reporters cover city hall when no one else shows up. It's time public agencies treated them like the working press they are."
-url = "https://example.com/your-story-link-goes-here"
-date = "October 2025"
+title = "Contra Costa County supes delay vote on resolution limiting immigration cooperation"
+description = "The Contra Costa County Board of Supervisors decided Tuesday to vote on a future date on a resolution that would restrict the county from cooperating with federal immigration authorities."
+url = "https://localnewsmatters.org/2026/07/08/contra-costa-immigration-cooperation-resolution-delayed/"
+date = "July 2026"
 category = "Journalism"
-outlet = "Richmond Confidential"
+outlet = "Bay City News"
 
 # ── A photo essay stored right here on your site ────────────
 #
 # No url needed! List the photos and clicking the work opens a
 # slideshow. Write captions after the | symbol (optional).
 
-[[work]]
-title = "Saturday at the farmers market"
-description = "Scenes from a morning at the downtown farmers market, where vendors set up before sunrise and regulars arrive with the same canvas bags every week."
-date = "February 2026"
-category = "Photojournalism"
-photos = [
-  "media/farmers-market/01-market-opening.jpg | Produce stands catch the first light as the market opens at 8 a.m.",
-  "media/farmers-market/02-vendor.jpg | Vendors greet the day's first customers — many by name.",
-  "media/farmers-market/03-vegetables.jpg | Winter vegetables, picked the afternoon before, fill the tables by dawn.",
-  "media/farmers-market/04-flowers.jpg | Flower buckets wait for the mid-morning rush.",
-  "media/farmers-market/05-fruit.jpg | By noon, the best of the citrus is already gone.",
-]
+
 
 # ── An audio story stored on your site ──────────────────────
 #
 # Point "audio" at an mp3 file in your media folder. The photo
 # is optional. Clicking the work opens an audio player.
 
-[[work]]
-title = "One small step: the sound that stopped the world"
-description = "An audio postcard revisiting the most famous sentence ever spoken off-planet, and what it sounded like in living rooms in 1969."
-audio = "media/audio/one-small-step.mp3"
-image = "media/work/apollo.jpg"
-date = "December 2025"
-category = "Multimedia"
 
 # ── A video hosted on YouTube or Vimeo ──────────────────────
 #
 # Upload your video to YouTube or Vimeo, then paste its link
 # here. Clicking the work plays it in a pop-up.
 
-[[work]]
-title = "Video explainer: why we're going back to the Moon"
-description = "A short explainer on NASA's Artemis program, produced for my multimedia reporting class."
-video = "https://www.youtube.com/watch?v=vl6jn-DdafM"
-date = "September 2025"
-category = "Multimedia"
+
 
 
 # ============================================================
