@@ -18,8 +18,7 @@
 name = "Emily Tenorio Molina"                # ← Required. Everything else is optional.
 
 # A short phrase describing you. Shows up big at the top of most templates.
-tagline = "Local Bay Area Journalist 
-Bilingual|Bicultural"
+tagline = "Local Bay Area Journalist Bilingual|Bicultural"
 
 location = "Berkeley, California"
 
@@ -57,7 +56,6 @@ phone = "707-703-3975"                          # e.g. "(510) 555-0123" — or l
 socials = [
   "https://www.instagram.com/example",
   "linkedin.com/in/emily-tenorio-molina",
-
 ]
 
 # ── Photos and files ────────────────────────────────────────
